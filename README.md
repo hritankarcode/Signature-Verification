@@ -2,12 +2,12 @@
 
 # 🖼️ Image Comparison using K-Means Clustering and ORB Features
 
-This project compares two images based on:
+This project compares two signatures based on:
 
 - 🎨 **Color similarity** using K-Means clustering in the HSV color space.
 - 🧠 **Structural similarity** using ORB (Oriented FAST and Rotated BRIEF) feature matching.
 
-It provides a combined decision based on these metrics to determine whether the two input images are similar.
+It provides a combined decision based on these metrics to determine whether the two input signatures are similar.
 
 ---
 
