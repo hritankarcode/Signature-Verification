@@ -74,8 +74,9 @@ def compare_images_with_kmeans_and_orb(img1, img2, kmeans_threshold=30, orb_thre
 
 # Load Images
   # Train Image
-img1 = cv2.imread(r"C:\Users\Hritankar\Downloads\WhatsApp Image 2025-02-19 at 15.15.25.jpeg")  # Query Image
-img2 = cv2.imread(r"C:\Users\Hritankar\Downloads\WhatsApp Image 2025-02-19 at 15.15.30.jpeg")  
+
+img1 = cv2.imread("images/image1.jpeg")
+img2 = cv2.imread("images/image2.jpeg")
 
 # Display Input Images
 plt.figure(figsize=(12, 6))
