@@ -31,6 +31,9 @@ Here’s a preview of the ORB keypoint matching:
 
 ![Sample Match Output](Figure_1.png)
 
+### 📋 Sample Text Output
+![Sample Result](result.png)
+
 
 
 
