@@ -25,5 +25,13 @@ It provides a combined decision based on these metrics to determine whether the 
 
 ---
 
+## 🖼️ Sample Output
+
+Here’s a preview of the ORB keypoint matching:
+
+![Sample Match Output](Figure_1.png)
+
+
+
 
 
